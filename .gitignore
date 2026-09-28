@@ -1,0 +1,15 @@
+# WorkBuddy 内部数据
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
